@@ -1,5 +1,5 @@
 # CODSOFT
-These are my tasks which I have accomplished in this internship
+These are my tasks which I have accomplished in CODSOFT internship
 <br>
 Task-1 To-DoList
 <br>
