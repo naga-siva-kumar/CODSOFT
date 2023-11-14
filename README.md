@@ -1,8 +1,6 @@
-# CODSOFT
-These are my tasks which I have accomplished in CODSOFT internship
-<br>
-Task-1 To-DoList
-<br>
-Task-2 Calculator
-<br>
-Task-3 Password Generator
+My Codsoft python internship project code
+I have completed the 3 tasks in the Codsoft virtural internship in python Programming language
+MY TASKS
+-Password Generator
+-To-Do List
+-Calculator
