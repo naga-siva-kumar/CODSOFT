@@ -18,7 +18,7 @@ def pass_Generator():
     if Choice.get()==3:
         display_pass.insert(0,random.sample(Allchar,Length))
 
-def Reset():
+def reset():
     global var
     var=" "
     display_pass.delete(0,END)
@@ -49,7 +49,7 @@ generate_button.grid(pady=5)
 display_pass=Entry(win,font=("Arial",15,"bold"))
 display_pass.grid(pady=15)
 
-Reset_button=Button(win,text="Reset",command=Reset,font=("Arial",13,"bold"))
+Reset_button=Button(win,text="Reset",command=reset,font=("Arial",13,"bold"))
 Reset_button.grid(pady=5)
 Copy_button=Button(win,text="Copy",font=("Arial",13,"bold"),command=Copy)
 Copy_button.grid()
