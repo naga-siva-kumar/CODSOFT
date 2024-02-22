@@ -54,7 +54,7 @@ btn_plus.grid(row=4,column=4)
 btn_minus=tk.Button(window,text="-",command=lambda: ad("-"),width=5,font=("Times New Roman",14))
 btn_minus.grid(row=5,column=4)
 
-btn_times=tk.Button(window,text="",command=lambda: ad(""),width=5,font=("Times New Roman",14))
+btn_times=tk.Button(window,text="*",command=lambda: ad("*"),width=5,font=("Times New Roman",14))
 btn_times.grid(row=3,column=4)
 
 btn_division=tk.Button(window,text="/",command=lambda: ad("/"),width=5,font=("Times New Roman",14))
